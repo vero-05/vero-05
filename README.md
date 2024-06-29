@@ -2,7 +2,3 @@
   
 - 👀 I’m interested in programing languages and development
 - 🌱 I’m currently focused on continuing to learn and improve my programming language skills.
-
-vero-05/vero-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
